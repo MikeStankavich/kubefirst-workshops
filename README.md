@@ -18,10 +18,10 @@ Please be sure you are [running Docker Desktop](https://docs.docker.com/desktop/
 You need to [use Homebrew](https://docs.kubefirst.io/2.0/kubefirst/overview#install-the-kubefirst-cli). If you don't have it, and want to install it, read [their documentation](https://brew.sh). If you don't want to use it, here are some [alternative ways to install the CLI](https://github.com/kubefirst/kubefirst/blob/main/build/README.md).
 
 ```shell
-brew install kubefirst/tools/kubefirst
+brew install konstructio/taps/kubefirst
 ```
 
-If you already have it, be sure you are using the latest version, as we'll need 2.1.3 for this tutorial.
+If you already have it, be sure you are using the latest version, as we'll need 2.7.9 for this tutorial.
 
 ```shell
 brew update
